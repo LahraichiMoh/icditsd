@@ -1,0 +1,257 @@
+{
+  "brand": "OWS Training & Consulting",
+  "navigation": {
+    "home": "Home",
+    "program": "Program",
+    "fees": "Fees",
+    "practicalInfo": "Practical Info",
+    "callForPapers": "Contributions",
+    "contact": "Contact",
+    "privacy": "Privacy"
+  },
+  "hero": {
+    "title": "International Conference on Digital Investment and the Transition to Smart Digitalization",
+    "edition": "7th Edition",
+    "theme": "Under the theme: Towards an integrated economic environment led by innovation and artificial intelligence",
+    "date": "28–29 April 2026",
+    "location": "Casablanca, Kingdom of Morocco",
+    "venue": "DoubleTree by Hilton (formerly Mogador)",
+    "ctaPrimary": "Register now",
+    "ctaSecondary": "Contact us"
+  },
+  "about": {
+    "eyebrow": "About the conference",
+    "title": "A strategic meeting for digital investment leaders",
+    "description": "A conference that brings together decision-makers, experts, and entrepreneurs to discuss the future of digital investment and the transition to smart digitalization, build strategic partnerships, leverage emerging technologies, accelerate digital transformation, and enhance national economies’ readiness to integrate into the smart global economy."
+  },
+  "objectives": {
+    "eyebrow": "Objectives",
+    "title": "Ten priorities shaping the digital investment agenda",
+    "items": [
+      "Highlighting the role of digital investment as a key pillar for building a competitive economy driven by innovation and technology.",
+      "Stimulating major investment flows toward technology projects, digital platforms, and the sharing economy.",
+      "Formulating a unified digitalization framework that strengthens economic integration and raises countries’ readiness for the global smart economy.",
+      "Creating a competitive digital business environment that supports startups, attracts investors, and accelerates digital expansion.",
+      "Discussing legal regulations and policies that support the digital economy and foster a safe innovation and investment climate.",
+      "Empowering government digital transformation through smart strategies that redesign services and improve efficiency.",
+      "Strengthening digital trust by developing cybersecurity frameworks, protecting data, and supporting good governance.",
+      "Advancing the sharing economy to become a major growth contributor through legislation development and innovative platforms.",
+      "Turning digitalization into an effective economic engine that creates new jobs, raises productivity, and stimulates innovation.",
+      "Launching joint initiatives that contribute to building a unified and robust digital infrastructure."
+    ]
+  },
+  "participants": {
+    "eyebrow": "Participants",
+    "title": "Who will join the conference",
+    "items": [
+      "Decision-makers and government officials in the fields of economy, digitalization, investment, trade, industry, and services.",
+      "Local and international investors, investment funds, venture capital, investment agencies and offices, financial markets, and multi-commodity markets.",
+      "Technology companies, telecommunications and information firms, and digital and innovation institutions.",
+      "Entrepreneurs and startups in technology and digital sectors, incubators, and free zones.",
+      "Experts and researchers in digital green economy, technology policies, and renewable energy.",
+      "Financial and banking institutions interested in digital transformation, smart services, insurance companies, and financial services institutions.",
+      "Regional and international organizations concerned with digital transformation and economic development, universities, technical colleges, and higher education institutions.",
+      "Private sector entities of all kinds seeking to develop their digital operations from companies, authorities, and institutions."
+    ]
+  },
+  "programPreview": {
+    "eyebrow": "Program preview",
+    "title": "Six sessions and a strategic round table",
+    "description": "A multi-track agenda that highlights investment, governance, and innovation priorities.",
+    "button": "View full program",
+    "sessions": [
+      "Session 1: Digital investment and technological innovation",
+      "Session 2: Digital integration and a unified digitalization framework",
+      "Session 3: Building the digital business environment and empowering startups",
+      "Session 4: Government digital transformation and smart public services",
+      "Session 5: Legal regulations and supportive policies",
+      "Session 6: Cybersecurity and digital trust"
+    ],
+    "roundTable": "Round Table: Expert-led dialogue and knowledge transfer"
+  },
+  "feesPreview": {
+    "eyebrow": "Fees",
+    "title": "Simple and transparent participation packages",
+    "price": "1500 USD per participant",
+    "earlyBird": "20% early registration discount before 28/02/2026",
+    "groupOffers": "Group offers for 3 or 5 participants",
+    "button": "Explore fees"
+  },
+  "advantages": {
+    "eyebrow": "Advantages",
+    "title": "Benefits that extend beyond the conference",
+    "items": [
+      "Attendance certificate plus additional workshop certificates (OWS Training & Consulting / OWS Group).",
+      "OWS Group membership card with discounts for attending events and conferences.",
+      "Exclusive photos with selected speakers and experts.",
+      "Assistance with hotel or apartment booking.",
+      "Conference coordinator support throughout the stay.",
+      "Conference languages: Arabic and English.",
+      "Attendance includes men and women.",
+      "Student/researcher discount."
+    ]
+  },
+  "partners": {
+    "eyebrow": "Partners & Sponsors",
+    "title": "Strategic partners and supporters",
+    "description": "Partner and sponsor logos will be announced soon."
+  },
+  "cta": {
+    "title": "Join the 7th edition in Casablanca",
+    "description": "Reserve your seat and connect with leaders of smart digital investment.",
+    "primary": "Register",
+    "secondary": "Contact"
+  },
+  "program": {
+    "title": "Conference Program",
+    "description": "Explore the full agenda of sessions, axes, and the round table.",
+    "sessions": [
+      {
+        "title": "Session 1: Digital investment and technological innovation",
+        "axes": [
+          "The role of digital investment in building an advanced competitive economy.",
+          "The future of investments in emerging technologies such as AI, blockchain, and cloud computing.",
+          "Global shifts in venture capital and opportunities to attract investment to the Arab region.",
+          "Mechanisms to accelerate investment flows into large technology projects."
+        ]
+      },
+      {
+        "title": "Session 2: Digital integration and a unified digitalization framework",
+        "axes": [
+          "A strategy for unifying digital systems and standards in Arab countries.",
+          "The role of digital integration in strengthening institutional competitiveness.",
+          "Digitalization as a key driver of productivity and sustainable growth.",
+          "The future of the sharing economy as a core contributor to economic growth."
+        ]
+      },
+      {
+        "title": "Session 3: Building the digital business environment and empowering startups",
+        "axes": [
+          "Building a competitive business environment based on innovation and digitalization.",
+          "Supporting startups and incubators through innovative digital solutions.",
+          "Digital transformation as a key factor in raising the quality of advanced digital services.",
+          "New partnership models between the public and private sectors to support the digital economy."
+        ]
+      },
+      {
+        "title": "Session 4: Government digital transformation and smart public services",
+        "axes": [
+          "Smart digital transformation strategies in the public sector.",
+          "Developing smart services supported by systems and big data.",
+          "Improving government efficiency through digitalization and AI technologies.",
+          "The role of legal regulations in building a strong and unified digital environment."
+        ]
+      },
+      {
+        "title": "Session 5: Legal regulations and supportive policies",
+        "axes": [
+          "Reviewing and updating legal frameworks to facilitate digital investment.",
+          "Policies to stimulate innovation and digital entrepreneurship in support of the national economy.",
+          "Developing legislation for the sharing economy and cross-border platforms.",
+          "Legal controls governing investment systems in free and technology zones."
+        ]
+      },
+      {
+        "title": "Session 6: Cybersecurity and digital trust",
+        "axes": [
+          "Ensuring data security in the era of the digital economy.",
+          "Developing policies to reduce cyber risks.",
+          "Digital connectivity, open partnerships, and shared cloud computing.",
+          "Enhancing public trust in digital services and transactions."
+        ]
+      }
+    ],
+    "roundTable": {
+      "title": "Round Table",
+      "chair": "Chaired by Dr. Jamal Al-Saeedi (Conference Chair)",
+      "description": "Experts from Arab countries transfer Arab and global experiences."
+    }
+  },
+  "fees": {
+    "title": "Participation Fees",
+    "description": "Transparent pricing and discounts for early and group registrations.",
+    "price": "1500 USD per participant",
+    "note": "Not including accommodation or flight tickets.",
+    "discountsTitle": "Discounts",
+    "discounts": [
+      "20% early registration before 28/02/2026.",
+      "Book 3 participants and receive 1 free seat with full attendance privileges.",
+      "Book 5 participants and receive 2 free seats.",
+      "Special discount for students and researchers (inside Morocco or abroad)."
+    ],
+    "includedTitle": "What’s included",
+    "included": [
+      "Attendance certificate plus additional workshop certificates (OWS Training & Consulting / OWS Group).",
+      "OWS Group membership card with discounts for attending events and conferences.",
+      "Exclusive photos with selected speakers and experts.",
+      "Assistance with hotel or apartment booking.",
+      "Conference coordinator support throughout the stay.",
+      "Conference languages: Arabic and English.",
+      "Attendance includes men and women.",
+      "Student/researcher discount."
+    ]
+  },
+  "practical": {
+    "title": "Practical Information",
+    "description": "Plan your visit to Casablanca and prepare for your arrival.",
+    "visaTitle": "Visa and entry procedures",
+    "visa": [
+      "Ensure passports are valid for Morocco entry with at least 6 months validity.",
+      "Obtain a Morocco entry visa from the nearest embassy/consulate for countries that require it."
+    ],
+    "venueTitle": "Venue",
+    "venue": "DoubleTree by Hilton (formerly Mogador)",
+    "cityTitle": "About Casablanca",
+    "city": "Casablanca is Morocco’s economic capital, blending modern business districts with Atlantic coast charm.",
+    "travelTitle": "Travel & accommodation assistance",
+    "travel": "OWS provides support with hotel or apartment booking and a dedicated coordinator throughout your stay."
+  },
+  "callForPapers": {
+    "title": "Participant Contributions",
+    "description": "Participants who wish to contribute with papers or interventions should send an electronic copy related to the conference themes.",
+    "emailLabel": "Email",
+    "email": "info@owstc.net",
+    "deadlineLabel": "Deadline",
+    "deadline": "Tuesday, March 31, 2026"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Reach out to the organizing team for registration, partnerships, and inquiries.",
+    "cards": [
+      {
+        "label": "Website",
+        "value": "www.owstc.net"
+      },
+      {
+        "label": "Email",
+        "value": "info@owstc.net"
+      },
+      {
+        "label": "Training",
+        "value": "training@owstc.net"
+      }
+    ],
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone number",
+      "country": "Country",
+      "organization": "Organization",
+      "message": "Message",
+      "submit": "Send message"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "We respect your privacy. Contact details submitted through this website are used only for conference communication and will not be shared with third parties."
+  },
+  "footer": {
+    "socials": "Follow us"
+  },
+  "misc": {
+    "ctaRegister": "Register",
+    "ctaContact": "Contact",
+    "program": "Program",
+    "fees": "Fees"
+  }
+}

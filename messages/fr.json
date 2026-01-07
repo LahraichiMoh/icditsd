@@ -1,0 +1,257 @@
+{
+  "brand": "OWS Training & Consulting",
+  "navigation": {
+    "home": "Accueil",
+    "program": "Programme",
+    "fees": "Frais",
+    "practicalInfo": "Infos pratiques",
+    "callForPapers": "Contributions",
+    "contact": "Contact",
+    "privacy": "Confidentialité"
+  },
+  "hero": {
+    "title": "Conférence internationale sur l’investissement numérique et la transition vers une digitalisation intelligente",
+    "edition": "7ème édition",
+    "theme": "Sous le thème : Vers un environnement économique intégré porté par l’innovation et l’intelligence artificielle",
+    "date": "28–29 avril 2026",
+    "location": "Casablanca, Royaume du Maroc",
+    "venue": "DoubleTree by Hilton (anciennement Mogador)",
+    "ctaPrimary": "S’inscrire",
+    "ctaSecondary": "Nous contacter"
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "Un rendez-vous stratégique pour l’investissement numérique",
+    "description": "Une conférence qui réunit décideurs, experts et entrepreneurs pour discuter de l’avenir de l’investissement numérique et de la transition vers une digitalisation intelligente, bâtir des partenariats stratégiques, mobiliser les technologies émergentes, accélérer la transformation numérique et renforcer la préparation des économies nationales à l’économie mondiale intelligente."
+  },
+  "objectives": {
+    "eyebrow": "Objectifs",
+    "title": "Dix priorités pour façonner l’investissement numérique",
+    "items": [
+      "Mettre en avant le rôle de l’investissement numérique comme pilier clé pour bâtir une économie compétitive fondée sur l’innovation et la technologie.",
+      "Stimuler des flux d’investissement majeurs vers les projets technologiques, les plateformes numériques et l’économie collaborative.",
+      "Élaborer un cadre unifié de digitalisation qui renforce l’intégration économique et la préparation des pays à l’économie intelligente mondiale.",
+      "Créer un environnement d’affaires numérique compétitif qui soutient les startups, attire les investisseurs et accélère l’expansion numérique.",
+      "Débattre des législations et politiques qui soutiennent l’économie numérique et favorisent un climat d’innovation et d’investissement sûr.",
+      "Renforcer la transformation numérique gouvernementale via des stratégies intelligentes qui repensent les services et améliorent l’efficacité.",
+      "Accroître la confiance numérique en développant des cadres de cybersécurité, la protection des données et la bonne gouvernance.",
+      "Dynamiser l’économie collaborative pour en faire un moteur de croissance via la législation et des plateformes innovantes.",
+      "Faire de la digitalisation un moteur économique capable de créer des emplois, d’augmenter la productivité et de stimuler l’innovation.",
+      "Lancer des initiatives communes pour construire une infrastructure numérique unifiée et solide."
+    ]
+  },
+  "participants": {
+    "eyebrow": "Participants",
+    "title": "Qui participera",
+    "items": [
+      "Décideurs et responsables gouvernementaux dans les domaines de l’économie, de la digitalisation, de l’investissement, du commerce, de l’industrie et des services.",
+      "Investisseurs locaux et internationaux, fonds d’investissement, capital-risque, agences et bureaux d’investissement, marchés financiers et marchés multi-commodités.",
+      "Entreprises technologiques, sociétés de télécommunications et d’information, et institutions numériques et innovantes.",
+      "Entrepreneurs et startups dans les secteurs technologiques et numériques, incubateurs et zones franches.",
+      "Experts et chercheurs en économie verte numérique, politiques technologiques et énergies renouvelables.",
+      "Institutions financières et bancaires intéressées par la transformation numérique, services intelligents, compagnies d’assurance et institutions de services financiers.",
+      "Organisations régionales et internationales concernées par la transformation numérique et le développement économique, universités, écoles techniques et établissements d’enseignement supérieur.",
+      "Secteur privé de toutes natures souhaitant développer ses opérations numériques (entreprises, autorités et institutions)."
+    ]
+  },
+  "programPreview": {
+    "eyebrow": "Aperçu du programme",
+    "title": "Six sessions et une table ronde stratégique",
+    "description": "Une agenda multi-axes mettant en avant l’investissement, la gouvernance et l’innovation.",
+    "button": "Voir le programme complet",
+    "sessions": [
+      "Session 1 : Investissement numérique et innovation technologique",
+      "Session 2 : Intégration numérique et cadre unifié de digitalisation",
+      "Session 3 : Environnement d’affaires numérique et autonomisation des startups",
+      "Session 4 : Transformation numérique gouvernementale et services publics intelligents",
+      "Session 5 : Cadres juridiques et politiques de soutien",
+      "Session 6 : Cybersécurité et confiance numérique"
+    ],
+    "roundTable": "Table ronde : Dialogue d’experts et transfert de connaissances"
+  },
+  "feesPreview": {
+    "eyebrow": "Frais",
+    "title": "Des formules claires et transparentes",
+    "price": "1500 USD par participant",
+    "earlyBird": "Remise de 20 % pour inscription anticipée avant le 28/02/2026",
+    "groupOffers": "Offres de groupe pour 3 ou 5 participants",
+    "button": "Découvrir les frais"
+  },
+  "advantages": {
+    "eyebrow": "Avantages",
+    "title": "Des bénéfices au-delà de la conférence",
+    "items": [
+      "Certificat de participation et certificats supplémentaires pour les ateliers (OWS Training & Consulting / OWS Group).",
+      "Carte de membre OWS Group offrant des réductions pour les événements et conférences.",
+      "Photos exclusives avec certains intervenants et experts.",
+      "Aide à la réservation d’hôtel ou d’appartement.",
+      "Accompagnement d’un coordinateur de conférence pendant le séjour.",
+      "Langues de la conférence : arabe et anglais.",
+      "Participation ouverte aux femmes et aux hommes.",
+      "Remise pour étudiants et chercheurs."
+    ]
+  },
+  "partners": {
+    "eyebrow": "Partenaires & sponsors",
+    "title": "Partenaires stratégiques et soutiens",
+    "description": "Les logos des partenaires et sponsors seront annoncés prochainement."
+  },
+  "cta": {
+    "title": "Rejoignez la 7ème édition à Casablanca",
+    "description": "Réservez votre place et connectez-vous aux leaders de l’investissement numérique intelligent.",
+    "primary": "S’inscrire",
+    "secondary": "Contact"
+  },
+  "program": {
+    "title": "Programme de la conférence",
+    "description": "Découvrez l’agenda complet des sessions, axes et de la table ronde.",
+    "sessions": [
+      {
+        "title": "Session 1 : Investissement numérique et innovation technologique",
+        "axes": [
+          "Le rôle de l’investissement numérique dans la construction d’une économie compétitive et avancée.",
+          "L’avenir des investissements dans les technologies émergentes telles que l’IA, la blockchain et le cloud computing.",
+          "Les transformations mondiales du capital-risque et les opportunités d’attirer des investissements dans la région arabe.",
+          "Les mécanismes pour accélérer les flux d’investissement vers les grands projets technologiques."
+        ]
+      },
+      {
+        "title": "Session 2 : Intégration numérique et cadre unifié de digitalisation",
+        "axes": [
+          "Stratégie d’unification des systèmes et normes numériques dans les pays arabes.",
+          "Le rôle de l’intégration numérique dans le renforcement de la compétitivité des institutions.",
+          "La digitalisation comme moteur principal de la productivité et de la croissance durable.",
+          "L’avenir de l’économie collaborative comme contributeur majeur à la croissance économique."
+        ]
+      },
+      {
+        "title": "Session 3 : Environnement d’affaires numérique et autonomisation des startups",
+        "axes": [
+          "Construire un environnement d’affaires compétitif basé sur l’innovation et la digitalisation.",
+          "Soutenir les startups et incubateurs via des solutions numériques innovantes.",
+          "La transformation numérique comme facteur clé pour améliorer la qualité des services numériques avancés.",
+          "Nouveaux modèles de partenariats public-privé pour soutenir l’économie numérique."
+        ]
+      },
+      {
+        "title": "Session 4 : Transformation numérique gouvernementale et services publics intelligents",
+        "axes": [
+          "Stratégies de transformation numérique intelligente dans le secteur public.",
+          "Développement de services intelligents soutenus par des systèmes et des mégadonnées.",
+          "Amélioration de l’efficacité publique grâce à la digitalisation et aux technologies d’IA.",
+          "Le rôle des cadres juridiques dans la construction d’un environnement numérique solide et unifié."
+        ]
+      },
+      {
+        "title": "Session 5 : Cadres juridiques et politiques de soutien",
+        "axes": [
+          "Révision et mise à jour des cadres juridiques pour faciliter l’investissement numérique.",
+          "Politiques d’incitation à l’innovation et à l’entrepreneuriat numérique au service de l’économie nationale.",
+          "Développement de législations pour l’économie collaborative et les plateformes transfrontalières.",
+          "Réglementations juridiques gouvernant l’investissement dans les zones franches et technologiques."
+        ]
+      },
+      {
+        "title": "Session 6 : Cybersécurité et confiance numérique",
+        "axes": [
+          "Garantir la sécurité des données à l’ère de l’économie numérique.",
+          "Développer des politiques pour réduire les risques cyber.",
+          "Connectivité numérique, partenariats ouverts et cloud computing partagé.",
+          "Renforcer la confiance du public dans les services et transactions numériques."
+        ]
+      }
+    ],
+    "roundTable": {
+      "title": "Table ronde",
+      "chair": "Présidée par Dr Jamal Al-Saeedi (Président de la conférence)",
+      "description": "Des experts des pays arabes partagent des expériences arabes et internationales."
+    }
+  },
+  "fees": {
+    "title": "Frais de participation",
+    "description": "Des tarifs transparents et des remises pour les inscriptions anticipées et de groupe.",
+    "price": "1500 USD par participant",
+    "note": "Ne comprend pas l’hébergement ni les billets d’avion.",
+    "discountsTitle": "Remises",
+    "discounts": [
+      "Remise de 20 % pour inscription anticipée avant le 28/02/2026.",
+      "Réservez 3 participants et obtenez 1 place gratuite avec tous les privilèges de participation.",
+      "Réservez 5 participants et obtenez 2 places gratuites.",
+      "Remise spéciale pour étudiants et chercheurs (au Maroc ou à l’étranger)."
+    ],
+    "includedTitle": "Ce qui est inclus",
+    "included": [
+      "Certificat de participation et certificats supplémentaires pour les ateliers (OWS Training & Consulting / OWS Group).",
+      "Carte de membre OWS Group offrant des réductions pour les événements et conférences.",
+      "Photos exclusives avec certains intervenants et experts.",
+      "Aide à la réservation d’hôtel ou d’appartement.",
+      "Accompagnement d’un coordinateur de conférence pendant le séjour.",
+      "Langues de la conférence : arabe et anglais.",
+      "Participation ouverte aux femmes et aux hommes.",
+      "Remise pour étudiants et chercheurs."
+    ]
+  },
+  "practical": {
+    "title": "Infos pratiques",
+    "description": "Préparez votre visite à Casablanca et votre arrivée.",
+    "visaTitle": "Visa et procédures d’entrée",
+    "visa": [
+      "Vérifiez que les passeports sont valides pour l’entrée au Maroc avec une validité d’au moins 6 mois.",
+      "Obtenez un visa d’entrée au Maroc auprès de l’ambassade/du consulat le plus proche pour les pays qui l’exigent."
+    ],
+    "venueTitle": "Lieu",
+    "venue": "DoubleTree by Hilton (anciennement Mogador)",
+    "cityTitle": "À propos de Casablanca",
+    "city": "Casablanca est la capitale économique du Maroc, entre quartiers d’affaires modernes et charme de l’Atlantique.",
+    "travelTitle": "Assistance voyage et hébergement",
+    "travel": "OWS fournit une assistance pour la réservation d’hôtel ou d’appartement et un coordinateur dédié pendant le séjour."
+  },
+  "callForPapers": {
+    "title": "Contributions des participants",
+    "description": "Les participants souhaitant présenter des communications ou interventions doivent envoyer une copie électronique liée aux thèmes de la conférence.",
+    "emailLabel": "Email",
+    "email": "info@owstc.net",
+    "deadlineLabel": "Date limite",
+    "deadline": "Mardi 31 mars 2026"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Contactez l’équipe d’organisation pour l’inscription, les partenariats et les demandes.",
+    "cards": [
+      {
+        "label": "Site web",
+        "value": "www.owstc.net"
+      },
+      {
+        "label": "Email",
+        "value": "info@owstc.net"
+      },
+      {
+        "label": "Formation",
+        "value": "training@owstc.net"
+      }
+    ],
+    "form": {
+      "name": "Nom complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "country": "Pays",
+      "organization": "Organisation",
+      "message": "Message",
+      "submit": "Envoyer"
+    }
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "description": "Nous respectons votre vie privée. Les coordonnées transmises via ce site sont utilisées uniquement pour la communication autour de la conférence et ne seront pas partagées avec des tiers."
+  },
+  "footer": {
+    "socials": "Suivez-nous"
+  },
+  "misc": {
+    "ctaRegister": "S’inscrire",
+    "ctaContact": "Contact",
+    "program": "Programme",
+    "fees": "Frais"
+  }
+}
